@@ -1,0 +1,3 @@
+ekybio_primer_homepage:
+    path:     /
+    defaults: { _controller: EkybioPrimerBundle:Default:index }
